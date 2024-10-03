@@ -4,7 +4,7 @@
 
 A l'attention des 5 & 6 Transition Technique Informatique de l'Institut Cardinal Mercier de Schaerbeek
 
-## 5 Transition Technique Informatique :
+## 5 EME Transition Technique Informatique :
 
 [5TT Informatique](./cours_5tt "5TT")
 
