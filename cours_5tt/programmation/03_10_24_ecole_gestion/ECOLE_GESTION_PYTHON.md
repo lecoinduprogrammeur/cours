@@ -100,8 +100,10 @@ for index,age in enumerate(liste_age, start=1):
 
 
 
+## Le code optimisé 
 
-## Le code optimisé
+- fonction enumerate( )
+- try et except -> gestion des erreurs
 
 ```python
 classe6 = []
@@ -112,7 +114,7 @@ codes_postaux = [1070,1160,1082,1000,1040,1140,1190,1083,1050,1090,1081,1080,106
 liste_age = [15,16,17]
 
 reponse = "o"
-reponse = input("Voulez-vous inscrire un élève ? o ou autre touche ")
+#reponse = input("Voulez-vous inscrire un élève ? o ou autre touche ")
 
 while reponse.lower() == "o":
     eleve = []  # Réinitialiser l'élève à chaque itératio ou tour de boucle
