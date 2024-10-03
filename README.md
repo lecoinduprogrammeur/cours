@@ -12,3 +12,16 @@ A l'attention des 5 & 6 èmes Transition Technique Informatique de l'Institut Ca
   - [03/10/24 Ecole Gestion](./cours_5tt/programmation/03_10_24_ecole_gestion)
 - SEL
 - Multimédias
+
+## 6 EME Transition Technique Informatique :
+
+6TT Informatique
+
+- Programmation
+- SEL
+- Multimédias
+
+Bonne visite à vous :-)
+
+
+
