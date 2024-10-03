@@ -4,5 +4,5 @@
 
 A l'attention des 5 & 6 Transition Technique Informatique de l'Institut Cardinal Mercier de Schaerbeek
 
-[5TT Informatique](./5EME.md "5TT")
+[5TT Informatique](./cours_5tt "5TT")
 
