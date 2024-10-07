@@ -4,7 +4,7 @@
 
 Creative Commons BY (Attribution) NC (Non Commercial) ND (No Derivatives)
 
-Lien permanent de ma session Google Meet : [Google Meet](https://meet.google.com/vaa-uvqa-jeu)
+Lien permanent de ma session Google Meet pour les étudiants : [Google Meet](https://meet.google.com/vaa-uvqa-jeu)
 
 ## Programmation / Systèmes d'exploitation et logiciels / Multimédias
 
