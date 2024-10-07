@@ -2,6 +2,8 @@
 
 **Licence CC-BY-NC-ND**
 
+Lien permanent Google Meet : [https://meet.google.com/vaa-uvqa-jeu](https://meet.google.com/vaa-uvqa-jeu)
+
 ## Programmation / Systèmes d'exploitation et logiciels / Multimédias
 
 A l'attention des 5 & 6 èmes Transition Technique Informatique de l'Institut Cardinal Mercier de Schaerbeek
