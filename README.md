@@ -1,6 +1,6 @@
 # Cours d'informatique de Monsieur Fabrice Dumont (**En Construction**)
 
-**Licence CC-BY-NC-ND**
+**Licence CC-BY-NC-ND** Creative Commons BY (Attribution) NC (Non Commercial) ND (No Derivatives)
 
 Lien permanent de ma session Google Meet : [Google Meet](https://meet.google.com/vaa-uvqa-jeu)
 
