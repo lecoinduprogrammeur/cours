@@ -2,7 +2,7 @@
 
 **Licence CC-BY-NC-ND** 
 
-Creative Commons BY (Attribution) NC (Non Commercial) ND (No Derivatives)
+Creative Commons - BY (Attribution) - NC (Non Commercial) - ND (No Derivatives)
 
 Lien permanent de ma session Google Meet pour les étudiants : [Google Meet](https://meet.google.com/vaa-uvqa-jeu)
 
