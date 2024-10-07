@@ -2,7 +2,7 @@
 
 **Licence CC-BY-NC-ND**
 
-Lien permanent Google Meet : [Google Meet](https://meet.google.com/vaa-uvqa-jeu)
+Lien permanent de ma seesion Google Meet : [Google Meet](https://meet.google.com/vaa-uvqa-jeu)
 
 ## Programmation / Systèmes d'exploitation et logiciels / Multimédias
 
