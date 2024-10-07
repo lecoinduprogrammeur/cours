@@ -1,5 +1,7 @@
 # Cours d'informatique de Monsieur Fabrice Dumont (**En Construction**)
 
+**Licence CC-BY-NC-ND**
+
 ## Programmation / Systèmes d'exploitation et logiciels / Multimédias
 
 A l'attention des 5 & 6 èmes Transition Technique Informatique de l'Institut Cardinal Mercier de Schaerbeek
@@ -20,8 +22,6 @@ A l'attention des 5 & 6 èmes Transition Technique Informatique de l'Institut Ca
 - Programmation
 - SEL
 - Multimédias
-
-**Licence CC-BY-NC-ND**
 
 Bonne visite à vous :-)
 
