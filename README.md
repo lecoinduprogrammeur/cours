@@ -1,4 +1,10 @@
-# Cours d'informatique de Monsieur Fabrice Dumont
+# Cours d'informatique de Monsieur Fabrice Dumont (**En Construction**)
+
+**Licence CC-BY-NC-ND** 
+
+Creative Commons - BY (Attribution) - NC (Non Commercial) - ND (No Derivatives)
+
+Lien permanent de ma session Google Meet pour les étudiants : [Google Meet](https://meet.google.com/vaa-uvqa-jeu)
 
 ## Programmation / Systèmes d'exploitation et logiciels / Multimédias
 
@@ -24,6 +30,5 @@ A l'attention des 5 & 6 èmes Transition Technique Informatique de l'Institut Ca
 - Multimédias
 
 Bonne visite à vous :-)
-
 
 
