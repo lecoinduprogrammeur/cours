@@ -29,7 +29,7 @@ A l'attention des 5 & 6 èmes Transition Technique Informatique de l'Institut Ca
 
 Bonne visite à vous :-)
 
-
+<Head>
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-9Y4DBMDS1J"></script>
 <script>
@@ -40,6 +40,6 @@ Bonne visite à vous :-)
   gtag('config', 'G-9Y4DBMDS1J');
 </script>
 
-
+</Head>
 
 
