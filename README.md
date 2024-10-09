@@ -1,4 +1,4 @@
-# Cours d'informatique de Monsieur Fabrice Dumont (**En Construction**)
+# Cours d'informatique de Monsieur Fabrice Dumont
 
 **Licence CC-BY-NC-ND** 
 
