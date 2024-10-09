@@ -6,6 +6,8 @@ Creative Commons - BY (Attribution) - NC (Non Commercial) - ND (No Derivatives)
 
 Lien permanent de ma session Google Meet pour les étudiants : [Google Meet](https://meet.google.com/vaa-uvqa-jeu)
 
+Lien de téléchargement du memento Python : [téléchargement](https://drive.google.com/file/d/1MY2jUIuuccmZ0CTt5LQdFq4uFyEwNaCo/view?usp=sharing)
+
 ## Programmation / Systèmes d'exploitation et logiciels / Multimédias
 
 A l'attention des 5 & 6 èmes Transition Technique Informatique de l'Institut Cardinal Mercier de Schaerbeek
