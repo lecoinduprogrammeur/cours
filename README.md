@@ -1,5 +1,7 @@
 # Cours d'informatique de Monsieur Fabrice Dumont
 
+![Imgur Python School](https://i.imgur.com/ti449hxm.png)
+
 **Licence CC-BY-NC-ND** 
 
 Creative Commons - BY (Attribution) - NC (Non Commercial) - ND (No Derivatives)
