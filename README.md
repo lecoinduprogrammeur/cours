@@ -25,10 +25,9 @@ A l'attention des 5 & 6 èmes Transition Technique Informatique de l'Institut Ca
 
 - [Programmation](./cours_6tt/programmation)
   - [08/10/24 Jeu de cartes](./cours_6tt/programmation/08_10_24)
-
+  - [09/10/24 Jeu de cartes](./cours_6tt/programmation/09_10_24)
 - SEL
 - Multimédias
 
 Bonne visite à vous :-)
-
 
