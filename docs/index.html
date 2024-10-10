@@ -1,1 +1,62 @@
-<h1>blabla</h1>
+<!DOCTYPE html>
+<html>
+<head>
+<title>FD COURS</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="./CSS/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+<style>
+.w3-lato {
+  font-family: "Lato", sans-serif;
+}
+</style>
+</head>
+<body class="w3-blue-grey">
+
+<div class="w3-container w3-lato w3-blue-grey">
+  <h2 class="w3-xxlarge">Cours de Monsieur Fabrice Dumont</h2>
+  <h3>5 & 6 Transition Technique Informatique</h3>
+  <p>[PROGRAMMATION]-*-[SEL]-*- [MULTIMEDIAS]</p>
+  
+</div>
+
+<div class="w3-bar w3-black w3-lato w3-dark-grey">
+  <button class="w3-bar-item w3-button" onclick="openTab('ACCUEIL')">[ACCUEIL]</button>
+  <button class="w3-bar-item w3-button" onclick="openTab('PROGRAMMATION')">[PROGRAMMATION]</button>
+  <button class="w3-bar-item w3-button" onclick="openTab('SEL')">[SEL]</button>
+  <button class="w3-bar-item w3-button" onclick="openTab('MULTIMEDIA')">[MULTIMEDIA]</button>
+</div>
+
+<div id="ACCUEIL" class="w3-container cours w3-lato w3-blue-grey">
+  <h2>ACCUEIL</h2>
+  <p>ACCUEIL</p>
+</div>
+
+<div id="PROGRAMMATION" class="w3-container cours w3-lato w3-blue-grey" style="display:none">
+  <h2>PROGRAMMATION</h2>
+  <p>PROGRAMMATION</p>
+</div>
+
+<div id="SEL" class="w3-container cours w3-lato w3-blue-grey" style="display:none">
+  <h2>SEL</h2>
+  <p>SEL</p> 
+</div>
+
+<div id="MULTIMEDIA" class="w3-container cours w3-blue-grey" style="display:none">
+  <h2>MULTIMEDIA</h2>
+  <p>MULTIMEDIA</p>
+</div>
+
+<script>
+function openTab(tabName) {
+  var i;
+  var x = document.getElementsByClassName("cours");
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";  
+  }
+  document.getElementById(tabName).style.display = "block";  
+}
+</script>
+
+</body>
+</html>
