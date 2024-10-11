@@ -1,6 +1,9 @@
 # Cours d'informatique de Monsieur Fabrice Dumont
 
-![Imgur Python School](https://i.imgur.com/ti449hxm.png)
+| ![Imgur Python School](https://i.imgur.com/ti449hxm.png) | ![php](https://i.imgur.com/2EXnnWGm.png) | ![sql](https://i.imgur.com/1Y4ibMrm.png) | ![html](https://i.imgur.com/svYLNOfm.png) |
+| -------------------------------------------------------- | ---------------------------------------- | ---------------------------------------- | ----------------------------------------- |
+
+
 
 **Licence CC-BY-NC-ND** 
 
