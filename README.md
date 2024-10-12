@@ -21,15 +21,17 @@ Liens utiles :
 
  [Python.org](https://www.python.org/) : langage de programmation et environnement de développement intégré + documentation officielle
 
- [Uniform Server](https://www.uniformserver.com/) : serveur Apache et serveur SQL / PHP MySQL MariaDB
+[Uniform Server](https://www.uniformserver.com/) : serveur Apache et serveur SQL / PHP MySQL MariaDB
 
-[HeidSQL](https://www.heidisql.com/) : gestionnaire de bases de données en interface graphique
+[HeidiSQL](https://www.heidisql.com/) : gestionnaire de bases de données en interface graphique
 
 [Visual Studio Code](https://code.visualstudio.com/) : éditeur de code complet et nombreux plugins (dont python et pylance autocompletion)
 
 [WinPython](https://winpython.github.io/) : distribution portable Python et Jupyter Notebook
 
 [w3schools.com et w3.css](https://www.w3schools.com/) :  site de référence Python PHP MySQL HTML CSS JavaScript etc... + feuille de style w3.css
+
+[Git et Git Bash](https://git-scm.com/) : logiciel de gestion de versions décentralisé et terminal Unix intégré (vers Github, Gitlab, Bitbucket,...)
 
 ------
 
