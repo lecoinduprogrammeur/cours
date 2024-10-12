@@ -1,17 +1,15 @@
 # Cours d'informatique de Monsieur Fabrice Dumont
 
+**Licence CC-BY-NC-ND**  Creative Commons - BY (Attribution) - NC (Non Commercial) - ND (No Derivatives)
+
+Convention de Berne, directive 2001/29/CE du Parlement européen, Livre XI du Code de droit économique belge - Titre 5 - le droit d'auteur et les droits voisins.
+
 | ![Imgur Python School](https://i.imgur.com/ti449hxm.png) | ![php](https://i.imgur.com/2EXnnWGm.png) | ![sql](https://i.imgur.com/1Y4ibMrm.png) | ![html](https://i.imgur.com/svYLNOfm.png) |
 | -------------------------------------------------------- | ---------------------------------------- | ---------------------------------------- | ----------------------------------------- |
-
-
 
 ## Programmation / Systèmes d'exploitation et logiciels / Multimédias
 
 ### A l'attention des 5 & 6 èmes Transition Technique Informatique de l'Institut Cardinal Mercier de Schaerbeek
-
-**Licence CC-BY-NC-ND** 
-
-Creative Commons - BY (Attribution) - NC (Non Commercial) - ND (No Derivatives)
 
 Lien permanent de ma session Google Meet pour les étudiants : [Google Meet](https://meet.google.com/vaa-uvqa-jeu)
 
