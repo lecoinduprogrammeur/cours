@@ -57,5 +57,9 @@ Liens utiles :
   
 - Multimédias
 
+## Annexes :
+
+- [Python - Manipuler les listes](./annexes/python_listes.md)
+
 Bonne visite à vous :-)
 
