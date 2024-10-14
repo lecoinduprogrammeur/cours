@@ -2,8 +2,6 @@
 
 **© Fabrice Dumont**
 
-[TOC]
-
 Les **listes** en Python sont des collections ordonnées qui peuvent contenir des éléments de différents types (nombres, chaînes, booléens, etc.). Une liste est définie en utilisant des **crochets** `[ ]` et les éléments sont séparés par des **virgules**.
 
 ## Exemple 
