@@ -2,6 +2,33 @@
 
 **© Fabrice Dumont**
 
+- [Python /  Manipuler les listes](#python---manipuler-les-listes)
+  - [Exemple](#exemple)
+  - [Créer une liste](#créer-une-liste)
+  - [Accéder aux Éléments d'une Liste](#accéder-aux-éléments-dune-liste)
+  - [Slices de Liste](#slices-de-liste)
+  - [Modifier les Éléments d'une Liste](#modifier-les-éléments-dune-liste)
+  - [Ajouter des Éléments](#ajouter-des-éléments)
+  - [Supprimer des Éléments](#supprimer-des-éléments)
+  - [Rechercher des Éléments](#rechercher-des-éléments)
+  - [Autres Méthodes des Listes](#autres-méthodes-des-listes)
+  - [Boucle sur une Liste](#boucle-sur-une-liste)
+  - [Longueur d'une Liste](#longueur-dune-liste)
+  - [Copie de Liste](#copie-de-liste)
+  - [Compréhension de Liste](#compréhension-de-liste)
+  - [Fusionner des Listes](#fusionner-des-listes)
+  - [Listes Imbriquées](#listes-imbriquées)
+  - [Méthodes Complètes des Listes](#méthodes-complètes-des-listes)
+  - [Fonctions Supplémentaires pour les Listes](#fonctions-supplémentaires-pour-les-listes)
+  - [Utilisation Combinée](#utilisation-combinée)
+  - [Compréhensions de Liste Avancées](#compréhensions-de-liste-avancées)
+  - [Copier des Listes (Profond vs Superficiel)](#copier-des-listes-profond-vs-superficiel)
+  - [Tri avancé des Listes](#tri-avancé-des-listes)
+  - [Listes Imbriquées et Boucles](#listes-imbriquées-et-boucles)
+  - [Énumérations et Découpage de Listes](#énumérations-et-découpage-de-listes)
+  - [Conversion entre Listes et Autres Types](#conversion-entre-listes-et-autres-types)
+
+
 Les **listes** en Python sont des collections ordonnées qui peuvent contenir des éléments de différents types (nombres, chaînes, booléens, etc.). Une liste est définie en utilisant des **crochets** `[ ]` et les éléments sont séparés par des **virgules**.
 
 ## Exemple 
