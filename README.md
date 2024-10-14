@@ -59,7 +59,7 @@ Liens utiles :
 
 ## Annexes :
 
-- [Python - Manipuler les listes](./annexes/python_listes.md)
+- [Python - Manipuler les listes](./annexes/python_listes.html)
 
 Bonne visite à vous :-)
 
