@@ -2,6 +2,20 @@
 
 **© Fabrice Dumont**
 
+| 1   | [[#Exemple]]                           | 13  | [[#Compréhension de Liste]]                     |
+| --- | -------------------------------------- | --- | ----------------------------------------------- |
+| 2   | [[#Créer une liste]]                   | 14  | [[#Fusionner des Listes]]                       |
+| 3   | [[#Accéder aux Éléments d'une Liste]]  | 15  | [[#Listes Imbriquées]]                          |
+| 4   | [[#Slices de Liste]]                   | 16  | [[#Méthodes Complètes des Listes]]              |
+| 5   | [[#Modifier les Éléments d'une Liste]] | 17  | [[#Fonctions Supplémentaires pour les Listes]]  |
+| 6   | [[#Ajouter des Éléments]]              | 18  | [[#Utilisation Combinée]]                       |
+| 7   | [[#Supprimer des Éléments]]            | 19  | [[#Compréhensions de Liste Avancées]]           |
+| 8   | [[#Rechercher des Éléments]]           | 20  | [[#Copier des Listes (Profond vs Superficiel)]] |
+| 9   | [[#Autres Méthodes des Listes]]        | 21  | [[#Tri avancé des Listes]]                      |
+| 10  | [[#Boucle sur une Liste]]              | 22  | [[#Listes Imbriquées et Boucles]]               |
+| 11  | [[#Longueur d'une Liste]]              | 23  | [[#Énumérations et Découpage de Listes]]        |
+| 12  | [[#Copie de Liste]]                    | 24  | [[#Conversion entre Listes et Autres Types]]    |
+
 Les **listes** en Python sont des collections ordonnées qui peuvent contenir des éléments de différents types (nombres, chaînes, booléens, etc.). Une liste est définie en utilisant des **crochets** `[ ]` et les éléments sont séparés par des **virgules**.
 
 ## Exemple 
