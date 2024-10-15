@@ -60,6 +60,7 @@ Liens utiles :
 ## Annexes :
 
 - [Python - Manipuler les listes](./annexes/python_listes.md)
+- [Python - Les boucles while et for](./annexes/python_boucles.md)
 
 Bonne visite à vous :-)
 
