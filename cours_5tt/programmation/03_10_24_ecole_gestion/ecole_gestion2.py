@@ -62,13 +62,13 @@ while reponse.lower() == "o":
 
     # Nouvelle inscription
     reponse = input("Encore un élève à inscrire ? (o pour continuer, autre pour arrêter) ").lower()
-    while reponse in ["o","n"]:
+    while reponse not in ["o","n"]:
+        reponse = input("Veuillez entrer seulement 'o' pour continuer ou 'n' pour arrêter : ").lower()
+    else:
         if reponse == "o":
             continue
         elif reponse == "n":
             break
-        else:
-            print("eeee")
 
 
 
