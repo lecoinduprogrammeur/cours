@@ -61,6 +61,7 @@ Liens utiles :
 
 - [Python - Manipuler les listes](./annexes/python_listes.md)
 - [Python - Les boucles while et for](./annexes/python_boucles.md)
+- [Python - Widgets Tkinter](./annexes/widgets_Tkinter.md)
 
 Bonne visite à vous :-)
 
