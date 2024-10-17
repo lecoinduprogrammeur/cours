@@ -33,6 +33,13 @@ Liens utiles :
 
 [Git et Git Bash](https://git-scm.com/) : logiciel de gestion de versions décentralisé et terminal Unix intégré (vers Github, Gitlab, Bitbucket,...)
 
+Mais aussi 
+
+- [Pandoc](https://pandoc.org/) : convertisseur universel de documents
+- [MiKTeX](https://miktex.org/) : Distribution TeX/LATeX
+- [Jupyter](https://jupyter.org/) : Environnement de création de notebooks
+- [Obsidian](https://obsidian.md/) : Editeur de fichiers Markdown / fichiers connectés en arborescence
+
 ------
 
 ## 5 EME Transition Technique Informatique :
