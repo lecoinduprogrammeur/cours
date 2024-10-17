@@ -68,7 +68,7 @@ Liens utiles :
 
 **OUTILS DE DEVELOPPEMENT**
 
-- [Installation de Jupyter et Jupyter Lab (notebooks)](./annexes/Installation Jupyter et Jupyter Lab.md)
+- [Installation de Jupyter et Jupyter Lab (notebooks)](./annexes/Installation_Jupyter_et_Jupyter_Lab.md)
 
 Bonne visite à vous :-)
 
