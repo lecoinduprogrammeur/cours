@@ -59,10 +59,16 @@ Liens utiles :
 
 ## Annexes :
 
+**PYTHON**
+
 - [Python - Manipuler les listes](./annexes/python_listes.md)
 - [Python - Les boucles while et for](./annexes/python_boucles.md)
 - [Python - Widgets Tkinter](./annexes/widgets_Tkinter.md)
 - [Python - Manipuler les dictionnaires](./annexes/python_dictionaires.md)
+
+**OUTILS DE DEVELOPPEMENT**
+
+- [Installation de Jupyter et Jupyter Lab (notebooks)](./annexes/Installation Jupyter et Jupyter Lab.md)
 
 Bonne visite à vous :-)
 
