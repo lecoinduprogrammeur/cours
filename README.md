@@ -1,5 +1,7 @@
 # Cours d'informatique de Monsieur Fabrice Dumont
 
+<img src="https://i.imgur.com/LWxHF8fm.png" alt="Leonad" style="zoom:80%;" />
+
 **Licence CC-BY-NC-ND**  Creative Commons - BY (Attribution) - NC (Non Commercial) - ND (No Derivatives)
 
 Convention de Berne, directive 2001/29/CE du Parlement européen, Livre XI du Code de droit économique belge - Titre 5 - le droit d'auteur et les droits voisins.
