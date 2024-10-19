@@ -1,6 +1,7 @@
 # Cours d'informatique de Monsieur Fabrice Dumont
 
-<img src="https://i.imgur.com/LWxHF8fm.png" alt="Leonad" style="zoom:80%;" />
+| <img src="https://i.imgur.com/LWxHF8fm.png" alt="Leonad" style="zoom:80%;" /> | <img src="https://i.imgur.com/BVmGbMEm.png" alt="Monalisa" style="zoom:80%;" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 **Licence CC-BY-NC-ND**  Creative Commons - BY (Attribution) - NC (Non Commercial) - ND (No Derivatives)
 
