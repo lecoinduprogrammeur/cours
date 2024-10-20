@@ -82,7 +82,9 @@ Mais aussi
 
 **GIT COMMANDES**
 
-- [git commandes](./annexes/GIT TUTORIEL/git_commandes.md)  en cours de rédaction !
+- [git commandes](./annexes/GIT TUTORIEL/git_commandes.md)  
+
+  en cours de rédaction !
 
 Bonne visite à vous :-)
 
