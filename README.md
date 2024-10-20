@@ -82,7 +82,79 @@ Mais aussi
 
 **GIT COMMANDES**
 
-- [git commandes](./annexes/GIT TUTORIEL/git_commandes.md) (en cours de rédaction !)
+- [git commandes](./annexes/GIT TUTORIEL/git_commandes.md)  (en cours de rédaction !)
 
 Bonne visite à vous :-)
+
+```bash
+$ git tree
+.
+|   annexes
+|   |   GIT TUTORIEL
+|   |   |   git_add.md
+|   |   |   git_clone.md
+|   |   |   git_commandes.md
+|   |   |   git_commit.md
+|   |   |   git_config.md
+|   |   |   git_init.md
+|   |   |   git_remote.md
+|   |   |   git_reset.md
+|   |   |   git_status.md
+|   |   Installation_Jupyter_et_Jupyter_Lab.md
+|   |   python_boucles.md
+|   |   python_dictionaires.md
+|   |   python_listes.md
+|   |   widgets_Tkinter.md
+|   cours_5tt
+|   |   multimedias
+|   |   |   .gitkeep
+|   |   programmation
+|   |   |   03_10_24_ecole_gestion
+|   |   |   |   ecole_gestion.py
+|   |   |   |   ecole_gestion2.py
+|   |   |   |   ECOLE_GESTION_PYTHON.md
+|   |   |   |   test.py
+|   |   |   |   test2.py
+|   |   |   |   test3.py
+|   |   sel
+|   |   |   .gitkeep
+|   cours_6tt
+|   |   multimedias
+|   |   |   .gitkeep
+|   |   programmation
+|   |   |   08_10_24
+|   |   |   |   .gitkeep
+|   |   |   |   a_lire.txt
+|   |   |   |   cartes_a_jouer.py
+|   |   |   |   jeu.py
+|   |   |   |   jeu_2.py
+|   |   |   09_10_24
+|   |   |   |   jeu_3.py
+|   |   sel
+|   |   |   .gitkeep
+|   |   |   09_10_24
+|   |   |   |   accueil.php
+|   |   |   |   authentifier.php
+|   |   |   |   connection_bdd.php
+|   |   |   |   editeEtudiant.php
+|   |   |   |   enregistrementEtudiant.php
+|   |   |   |   entete_site.php
+|   |   |   |   lesMessages.php
+|   |   |   |   login.php
+|   |   |   |   logout.php
+|   |   |   |   message.php
+|   |   |   |   profil.php
+|   |   |   |   README.md
+|   |   |   |   sauvegardeEtudiant.php
+|   |   |   |   sauvegarde_message.php
+|   |   |   |   securite.php
+|   |   |   |   SQL
+|   |   |   |   |   bdd.sql
+|   |   |   |   updateEtudiant.php
+|   docs
+|   |   CSS
+|   |   |   w3.css
+|   |   index.html
+|   README.md
+```
 
