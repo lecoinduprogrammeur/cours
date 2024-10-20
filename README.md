@@ -80,5 +80,9 @@ Mais aussi
 
 - [Installation de Jupyter et Jupyter Lab (notebooks)](./annexes/Installation_Jupyter_et_Jupyter_Lab.md)
 
+**GIT COMMANDES**
+
+- [git commandes](./annexes/GIT TUTORIEL/git_commandes.md) (en cours de rédaction !)
+
 Bonne visite à vous :-)
 
