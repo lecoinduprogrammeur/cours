@@ -90,7 +90,7 @@ Bonne visite à vous :-)
 $ git tree
 .
 |   annexes
-|   |   GIT TUTORIEL
+|   |   GIT_TUTORIEL
 |   |   |   git_add.md
 |   |   |   git_clone.md
 |   |   |   git_commandes.md
