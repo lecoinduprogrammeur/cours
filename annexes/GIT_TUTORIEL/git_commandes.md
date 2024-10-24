@@ -121,5 +121,87 @@ La commande `git status` est un outil essentiel dans Git pour obtenir un aperçu
 
 [git status en détails](./git_status.md)
 
+---
 
+## #dépôt-distants
+
+---
+
+### ()$ git push
+
+La commande `git push` est utilisée pour envoyer les commits locaux vers un dépôt distant.
+
+[git push en détails](./git_push.md)
+
+---
+
+### $ git pull
+
+La commande `git pull` est utilisée pour récupérer et intégrer les changements d'un dépôt distant.
+
+[git pull en détails](./git_pull.md)
+
+---
+
+### $ git remote
+
+La commande `git remote` est utilisée pour gérer les dépôts distants (remotes) associés à votre dépôt Git local.
+
+[git remote en détails](./git_remote.md)
+
+---
+
+## #branches_et_merges
+
+---
+
+### $ git checkout
+
+La commande `git checkout` est très polyvalente et sert principalement à naviguer entre les branches et les versions de fichiers.
+
+[git checkout en détails](./git_checkout.md)
+
+---
+
+### $ git merge
+
+La commande `git merge` est utilisée pour fusionner des branches ensemble.
+
+[git merge en détails](./git_merge.md)
+
+---
+
+### $ git rebase
+
+La commande `git rebase` est une alternative à `git merge` pour intégrer des changements. Elle réécrit l'historique des commits. 
+
+[git rebase en détails](.:git_rebase.md)
+
+---
+
+## #inspections_et_analyses
+
+---
+
+### $ git status
+
+> [!IMPORTANT]
+>
+> -> VERSION PLUS DETAILLEE 
+
+La commande `git status` est un outil essentiel pour voir l'état actuel de votre dépôt Git.
+
+[git status en détails](./git_status_2.md)
+
+---
+
+
+
+
+
+
+
+expliquer HEAD, fast forward, git stash
+
+### 
 
