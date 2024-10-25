@@ -1,3 +1,11 @@
+---
+title: "Git commandes"
+date: "2024-10-25"
+author: "Fabrice Dumont"
+tags: ["typora", "markdown", "git"]
+category: "Tutoriel"
+---
+
 # Git Commandes
 
 ------
@@ -107,19 +115,19 @@ La commande `git commit` est une opération fondamentale dans Git, utilisée pou
 
 ------
 
-### $ git reset
+### $ git reset I
 
 La commande `git reset` est un outil puissant et flexible utilisé pour annuler ou ajuster des changements dans Git. Elle peut modifier l'état de l'index (staging area) et, dans certains cas, l'historique des commits.
 
-[git reset en détails](./git_reset.md)
+[git reset I en détails](./git_reset.md)
 
 ------
 
-### $ git status
+### $ git status I
 
 La commande `git status` est un outil essentiel dans Git pour obtenir un aperçu de l'état actuel de votre répertoire de travail et de l'index. 
 
-[git status en détails](./git_status.md)
+[git status I en détails](./git_status.md)
 
 ---
 
@@ -183,25 +191,81 @@ La commande `git rebase` est une alternative à `git merge` pour intégrer des c
 
 ---
 
-### $ git status
+### $ git status II
 
 > [!IMPORTANT]
 >
-> -> VERSION PLUS DETAILLEE 
+> -> version plus détaillée que la première
 
 La commande `git status` est un outil essentiel pour voir l'état actuel de votre dépôt Git.
 
-[git status en détails](./git_status_2.md)
+[git status II en détails](./git_status_2.md)
+
+---
+
+### $ git log
+
+La commande `git log` permet de visualiser l'historique des commits.
+
+[git log en détails](./git_log.md)
+
+---
+
+### $ git branch
+
+La commande `git branch` sert à gérer les branches dans Git.
+
+[git branch en détails](./git_branch.md)
+
+---
+
+### $ git diff
+
+La commande `git diff` permet de voir les différences entre les fichiers, les commits, les branches, etc. 
+
+[git diff en détails](./git_diff.md)
+
+---
+
+## #supprimer_du_travail
+
+---
+
+### $ git rm
+
+La commande `git rm` est utilisée pour supprimer des fichiers du suivi Git et du répertoire de travail. 
+
+[git rm en détails](./git_rm.md)
+
+---
+
+### $ git branch 
+
+voir note du dessus
+
+---
+
+### $ git revert
+
+La commande `git revert` permet d'annuler des commits en créant un nouveau commit d'annulation. 
+
+[git revert en détails](./git_revert.md)
+
+---
+
+### $ git reset II
+
+La commande `git reset` est utilisée pour réinitialiser l'état de votre dépôt. Elle peut affecter l'historique des commits, l'index et le répertoire de travail. 
+
+[git reset II en détails](./git_reset_2.md)
+
+---
+
+[Glossaire Git](./glossaire_git.md)
+
+[HEAD](./HEAD.md)
 
 ---
 
 
-
-
-
-
-
-expliquer HEAD, fast forward, git stash
-
-### 
 
