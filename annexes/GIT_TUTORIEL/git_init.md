@@ -1,6 +1,6 @@
 # $ git init
 
-[Retour Git Commandes](;/git_commandes.md)
+[Retour Git Commandes](./git_commandes.md)
 
 **La commande `git init` est utilisée pour initialiser un nouveau dépôt Git.** 
 

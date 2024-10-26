@@ -1,6 +1,6 @@
 # $ git rebase
 
-[Retour Git Commandes](;/git_commandes.md)
+[Retour Git Commandes](./git_commandes.md)
 
 La commande `git rebase` est une alternative à `git merge` pour intégrer des changements. Elle réécrit l'historique des commits. 
 

@@ -1,6 +1,6 @@
 # $ git diff
 
-[Retour Git Commandes](;/git_commandes.md)
+[Retour Git Commandes](./git_commandes.md)
 
 La commande `git diff` permet de voir les différences entre les fichiers, les commits, les branches, etc. 
 

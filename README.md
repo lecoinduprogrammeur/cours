@@ -1,3 +1,13 @@
+---
+title: "Cours de Monsieur Fabrice Dumont"
+date: 2024-10-26
+author: "Fabrice Dumont"
+tags: ["programmation", "Python", "PHP", "MySQL", "HTML", "CSS", "SEL", "multimedia"]
+categories: ["Tutoriels", "Développement", "Cours"]
+license: "CC BY-NC-ND 4.0"
+license_url: "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+---
+
 # Cours d'informatique de Monsieur Fabrice Dumont
 
 | <img src="https://i.imgur.com/LWxHF8fm.png" alt="Leonad" style="zoom:80%;" /> | <img src="https://i.imgur.com/BVmGbMEm.png" alt="Monalisa" style="zoom:80%;" /> |

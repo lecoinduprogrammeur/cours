@@ -1,6 +1,6 @@
 # $ git branch
 
-[Retour Git Commandes](;/git_commandes.md)
+[Retour Git Commandes](./git_commandes.md)
 
 La commande `git branch` sert à gérer les branches dans Git.
 

@@ -1,6 +1,6 @@
 # $ git add
 
-[Retour Git Commandes](;/git_commandes.md)
+[Retour Git Commandes](./git_commandes.md)
 
 La commande `git add` est une commande fondamentale dans Git, utilisée pour ajouter des modifications à l'index (aussi appelé "staging area").
 

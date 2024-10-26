@@ -2,8 +2,8 @@
 title: "Git commandes"
 date: "2024-10-25"
 author: "Fabrice Dumont"
-tags: ["typora", "markdown", "git"]
-category: "Tutoriel"
+tags: ["typora", "markdown", "git", "github", "gitlab"]
+category: "Tutoriel Git"
 ---
 
 # Git Commandes

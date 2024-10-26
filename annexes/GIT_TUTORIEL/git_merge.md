@@ -1,6 +1,6 @@
 # $ git merge
 
-[Retour Git Commandes](;/git_commandes.md)
+[Retour Git Commandes](./git_commandes.md)
 
 La commande `git merge` est utilisée pour fusionner des branches ensemble.
 

@@ -1,6 +1,6 @@
 # $ git checkout
 
-[Retour Git Commandes](;/git_commandes.md)
+[Retour Git Commandes](./git_commandes.md)
 
 La commande `git checkout` est très polyvalente et sert principalement à naviguer entre les branches et les versions de fichiers.
 

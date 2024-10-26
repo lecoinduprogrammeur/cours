@@ -1,6 +1,6 @@
 # $ git rm
 
-[Retour Git Commandes](;/git_commandes.md)
+[Retour Git Commandes](./git_commandes.md)
 
 La commande `git rm` est utilisée pour supprimer des fichiers du suivi Git et du répertoire de travail. 
 

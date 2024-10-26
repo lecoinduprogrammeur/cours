@@ -1,6 +1,6 @@
 # $ git push
 
-[Retour Git Commandes](;/git_commandes.md)
+[Retour Git Commandes](./git_commandes.md)
 
 La commande `git push` est utilisée pour envoyer les commits locaux vers un dépôt distant.
 

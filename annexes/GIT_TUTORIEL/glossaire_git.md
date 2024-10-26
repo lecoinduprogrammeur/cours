@@ -1,6 +1,6 @@
 # Glossaire Git
 
-[Retour Git Commandes](;/git_commandes.md)
+[Retour Git Commandes](./git_commandes.md)
 
 ## A
 - **Alias** : Raccourci personnalisé pour une commande Git.
