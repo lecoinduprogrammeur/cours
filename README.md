@@ -92,14 +92,28 @@ $ git tree
 |   annexes
 |   |   GIT_TUTORIEL
 |   |   |   git_add.md
+|   |   |   git_branch.md
+|   |   |   git_checkout.md
 |   |   |   git_clone.md
 |   |   |   git_commandes.md
 |   |   |   git_commit.md
 |   |   |   git_config.md
+|   |   |   git_diff.md
 |   |   |   git_init.md
+|   |   |   git_log.md
+|   |   |   git_merge.md
+|   |   |   git_pull.md
+|   |   |   git_push.md
+|   |   |   git_rebase.md
 |   |   |   git_remote.md
 |   |   |   git_reset.md
+|   |   |   git_reset_2.md
+|   |   |   git_revert.md
+|   |   |   git_rm.md
 |   |   |   git_status.md
+|   |   |   git_status_2.md
+|   |   |   glossaire_git.md
+|   |   |   HEAD.md
 |   |   Installation_Jupyter_et_Jupyter_Lab.md
 |   |   python_boucles.md
 |   |   python_dictionaires.md

@@ -1,5 +1,7 @@
 # Glossaire Git
 
+[Retour Git Commandes](;/git_commandes.md)
+
 ## A
 - **Alias** : Raccourci personnalisé pour une commande Git.
 - **Amont (Upstream)** : Référence au dépôt distant d'origine, souvent appelé "origin".

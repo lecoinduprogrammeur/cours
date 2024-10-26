@@ -1,5 +1,7 @@
 # $ git reset
 
+[Retour Git Commandes](;/git_commandes.md)
+
 La commande `git reset` est utilisée pour réinitialiser l'état de votre dépôt. Elle peut affecter l'historique des commits, l'index et le répertoire de travail. 
 
 **Modes principaux** 

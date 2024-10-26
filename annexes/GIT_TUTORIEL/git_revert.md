@@ -1,5 +1,7 @@
 # $ git revert
 
+[Retour Git Commandes](;/git_commandes.md)
+
 La commande `git revert` permet d'annuler des commits en créant un nouveau commit d'annulation. 
 
 **Syntaxe de base** 

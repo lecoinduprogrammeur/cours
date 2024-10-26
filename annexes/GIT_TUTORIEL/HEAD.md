@@ -1,5 +1,7 @@
 # HEAD
 
+[Retour Git Commandes](;/git_commandes.md)
+
 HEAD est un concept fondamental dans Git qui peut être expliqué sous plusieurs aspects :
 
 **Définition de base** 

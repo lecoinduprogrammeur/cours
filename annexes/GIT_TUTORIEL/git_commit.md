@@ -1,5 +1,7 @@
 # $ git commit
 
+[Retour Git Commandes](;/git_commandes.md)
+
 La commande `git commit` est une opération fondamentale dans Git, utilisée pour enregistrer les modifications préparées dans l'index (staging area) dans l'historique du dépôt.
 
 **Fonction principale** 

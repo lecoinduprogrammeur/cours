@@ -1,5 +1,7 @@
 # $ git config
 
+[Retour Git Commandes](;/git_commandes.md)
+
 La commande `git config` est utilisée pour configurer les paramètres de Git. Elle est très polyvalente et permet de personnaliser de nombreux aspects du comportement de Git. 
 
 **Niveaux de configuration** 

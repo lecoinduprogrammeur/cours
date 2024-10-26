@@ -1,5 +1,7 @@
 # $ git reset
 
+[Retour Git Commandes](;/git_commandes.md)
+
 La commande `git reset` est un outil puissant et flexible utilisé pour annuler ou ajuster des changements dans Git. Elle peut modifier l'état de l'index (staging area) et, dans certains cas, l'historique des commits.
 
 **Fonction principale** 
