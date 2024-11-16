@@ -94,6 +94,17 @@ Mais aussi
 
 - [git commandes](./annexes/GIT_TUTORIEL/git_commandes.md)  en cours de rédaction !
 
+**PROGRAMMATION PEDAGOGIQUE**
+
+- [Classes_TT_informatique](./annexes/PROGRAMMATION_PEDAGOGIQUE/Classes_TT_informatique.md)
+- [Matieres_Detaillees_Avance_Expert](./annexes/PROGRAMMATION_PEDAGOGIQUE/Matieres_Detaillees_Avance_Expert.md)
+- [Matieres_Detaillees_Debutant_Intermediaire](./annexes/PROGRAMMATION_PEDAGOGIQUE/Matieres_Detaillees_Debutant_Intermediaire.md)
+- [Matieres_selon_niveaux](./annexes/PROGRAMMATION_PEDAGOGIQUE/Matieres_selon_niveaux.md)
+- [Matieres_selon_niveaux_updated](./annexes/PROGRAMMATION_PEDAGOGIQUE/Matieres_selon_niveaux_updated.md)
+- [Niveaux_competences](./annexes/PROGRAMMATION_PEDAGOGIQUE/Niveaux_competences.md)
+- [Matieres_competences_updated](./annexes/PROGRAMMATION_PEDAGOGIQUE/Niveaux_competences_updated.md)
+- [Plan_de_lecon_type](./annexes/PROGRAMMATION_PEDAGOGIQUE/Plan_de_lecon_type.md)
+
 Bonne visite à vous :-)
 
 ```bash
