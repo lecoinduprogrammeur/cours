@@ -107,6 +107,8 @@ Mais aussi
 
 Bonne visite à vous :-)
 
+Arborescence 16/11/24 16:01
+
 ```bash
 $ git tree
 .
@@ -136,6 +138,15 @@ $ git tree
 |   |   |   glossaire_git.md
 |   |   |   HEAD.md
 |   |   Installation_Jupyter_et_Jupyter_Lab.md
+|   |   PROGRAMMATION_PEDAGOGIQUE
+|   |   |   Classes_TT_informatique.md
+|   |   |   Matieres_Detaillees_Avance_Expert.md
+|   |   |   Matieres_Detaillees_Debutant_Intermediaire.md
+|   |   |   Matieres_selon_niveaux.md
+|   |   |   Matieres_selon_niveaux_updated.md
+|   |   |   Niveaux_competences.md
+|   |   |   Niveaux_competences_updated.md
+|   |   |   Plan_de_lecon_type.md
 |   |   python_boucles.md
 |   |   python_dictionaires.md
 |   |   python_listes.md
