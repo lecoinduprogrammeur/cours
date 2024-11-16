@@ -4,7 +4,7 @@ author: "Fabrice Dumont"
 date: "2024-11-16" 
 categories:  ["cours","programmation"]
 tags: []
-version: "1.0" updated
+version: "1.0 updated" 
 status: "Révision"
 license: "CC BY-NC-ND 4.0"
 license_url: "https://creativecommons.org/licenses/by-nc-nd/4.0/"
