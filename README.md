@@ -108,9 +108,9 @@ Mais aussi
 
 **INTENTIONS PEDAGOGIQUES PROGRAMMATION / SEL / MULTIMEDIAS**
 
-- [Intentions Pédagogiques - Programmation](./annexes/INTENTIONS PEDAGOGIQUES/Intentions_peda_5_et_6_TT_programmation.md)
-- [Intentions Pédagogiques - SEL](./annexes/INTENTIONS PEDAGOGIQUES/Intentions_peda_5_et_6_TT_sel.md)
-- [Intentions Pédagogiques - Multimedias](./annexes/INTENTIONS PEDAGOGIQUES/Intentions_peda_5_et_6_TT_multimedia.md)
+- [Intentions Pédagogiques - Programmation](./annexes/INTENTIONS_PEDAGOGIQUES/Intentions_peda_5_et_6_TT_programmation.md)
+- [Intentions Pédagogiques - SEL](./annexes/INTENTIONS_PEDAGOGIQUES/Intentions_peda_5_et_6_TT_sel.md)
+- [Intentions Pédagogiques - Multimedias](./annexes/INTENTIONS_PEDAGOGIQUES/Intentions_peda_5_et_6_TT_multimedia.md)
 
 Bonne visite à vous :-)
 
