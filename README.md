@@ -62,7 +62,9 @@ Mais aussi
 - [Programmation](./cours_5tt/programmation)
   - [03/10/24 Ecole Gestion](./cours_5tt/programmation/03_10_24_ecole_gestion)
   - [18/11/24 Calculatrice fonctionnelle](./cours_5tt/programmation/18_11_24_calculatrice_fonctionnelle)
-- SEL
+- [SEL](./cours_5tt/sel)
+  - [21/11/24 Base de données Sélection Equipe Match](./cours_5tt/sel/export_foot.sql)
+
 - Multimédias
 
 ## 6 EME Transition Technique Informatique :
