@@ -116,7 +116,7 @@ Mais aussi
 
 Bonne visite à vous :-)
 
-Arborescence 16/11/24 16:01
+Arborescence 21/11/24 10:45
 
 ```bash
 $ git tree
@@ -147,6 +147,10 @@ $ git tree
 |   |   |   glossaire_git.md
 |   |   |   HEAD.md
 |   |   Installation_Jupyter_et_Jupyter_Lab.md
+|   |   INTENTIONS_PEDAGOGIQUES
+|   |   |   Intentions_peda_5_et_6_TT_multimedia.md
+|   |   |   Intentions_peda_5_et_6_TT_programmation.md
+|   |   |   Intentions_peda_5_et_6_TT_sel.md
 |   |   PROGRAMMATION_PEDAGOGIQUE
 |   |   |   Classes_TT_informatique.md
 |   |   |   Matieres_Detaillees_Avance_Expert.md
@@ -171,8 +175,12 @@ $ git tree
 |   |   |   |   test.py
 |   |   |   |   test2.py
 |   |   |   |   test3.py
+|   |   |   18_11_24_calculatrice_fonctionnelle
+|   |   |   |   calculatrice_001.py
+|   |   |   |   calculatrice_002.py
 |   |   sel
 |   |   |   .gitkeep
+|   |   |   export_foot.sql
 |   cours_6tt
 |   |   multimedias
 |   |   |   .gitkeep
