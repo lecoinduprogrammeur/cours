@@ -106,6 +106,12 @@ Mais aussi
 - [Matieres_competences_updated](./annexes/PROGRAMMATION_PEDAGOGIQUE/Niveaux_competences_updated.md)
 - [Plan_de_lecon_type](./annexes/PROGRAMMATION_PEDAGOGIQUE/Plan_de_lecon_type.md)
 
+**INTENTIONS PEDAGOGIQUES PROGRAMMATION / SEL / MULTIMEDIAS**
+
+- [Intentions Pédagogiques - Programmation](./annexes/INTENTIONS PEDAGOGIQUES/Intentions_peda_5_et_6_TT_programmation.md)
+- [Intentions Pédagogiques - SEL](./annexes/INTENTIONS PEDAGOGIQUES/Intentions_peda_5_et_6_TT_sel.md)
+- [Intentions Pédagogiques - Multimedias](./annexes/INTENTIONS PEDAGOGIQUES/Intentions_peda_5_et_6_TT_multimedia.md)
+
 Bonne visite à vous :-)
 
 Arborescence 16/11/24 16:01
