@@ -95,7 +95,7 @@ Mais aussi
 
 **GIT COMMANDES**
 
-- [git commandes](./annexes/GIT_TUTORIEL/git_commandes.md)  en cours de rédaction !
+- [GIT TUTORIELS](./annexes/GIT_TUTORIELS/)  
 
 **PROGRAMMATION PEDAGOGIQUE**
 
@@ -113,6 +113,12 @@ Mais aussi
 - [Intentions Pédagogiques - Programmation](./annexes/INTENTIONS_PEDAGOGIQUES/Intentions_peda_5_et_6_TT_programmation.md)
 - [Intentions Pédagogiques - SEL](./annexes/INTENTIONS_PEDAGOGIQUES/Intentions_peda_5_et_6_TT_sel.md)
 - [Intentions Pédagogiques - Multimedias](./annexes/INTENTIONS_PEDAGOGIQUES/Intentions_peda_5_et_6_TT_multimedia.md)
+
+**PROGRAMMATION LECONS PROF**
+
+- [PROGRAMMATION LECONS](./annexes/PROGRAMMATION_LECONS_PROF/)
+
+
 
 Bonne visite à vous :-)
 
