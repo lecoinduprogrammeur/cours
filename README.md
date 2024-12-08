@@ -28,6 +28,8 @@ Lien permanent de ma session Google Meet pour les étudiants : [Google Meet](htt
 
 Lien de téléchargement du memento Python : [téléchargement](https://drive.google.com/file/d/1MY2jUIuuccmZ0CTt5LQdFq4uFyEwNaCo/view?usp=sharing)
 
+Lien de téléchargement de la documentation officielle de Python 3.13.0 en français au format PDF : [téléchargement](https://drive.google.com/drive/folders/1y-tHkv2UvNn5ZBSwrp-I6EHhHcJBkXwP?usp=sharing)
+
 ------
 
 Liens utiles :
